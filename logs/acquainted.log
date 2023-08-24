@@ -1,0 +1,18 @@
+2023-08-24 00:11:32,563.acquainted.INFO ==================================================
+2023-08-24 00:11:32,564.acquainted.INFO Today is 2023-08-24 at 12:11 AM
+2023-08-24 00:11:32,590.acquainted.INFO Running on: nt Windows 10
+2023-08-24 00:11:32,590.acquainted.INFO Python version:  3.11.4
+2023-08-24 00:11:32,590.acquainted.INFO Python path: C:\Program Files\Python311
+2023-08-24 00:11:32,591.acquainted.INFO Working dir: C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
+2023-08-24 00:11:32,591.acquainted.INFO ==================================================
+2023-08-24 00:11:32,591.acquainted.INFO Name: John Doe 
+2023-08-24 00:11:32,592.acquainted.INFO State: California
+2023-08-24 00:11:32,592.acquainted.INFO Country: USA
+2023-08-24 00:11:32,592.acquainted.INFO Pet count: 1
+2023-08-24 00:11:32,592.acquainted.INFO Double the pet count: 2
+2023-08-24 00:11:32,592.acquainted.INFO Skill count: 24
+2023-08-24 00:11:32,593.acquainted.INFO Temperature: 81.5
+2023-08-24 00:11:32,593.acquainted.INFO Pet weight: 12.5
+2023-08-24 00:11:32,593.acquainted.INFO Has dog: False
+2023-08-24 00:11:32,593.acquainted.INFO Likes analytics: True
+2023-08-24 00:11:32,593.acquainted.INFO Likes Python: True

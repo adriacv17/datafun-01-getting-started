@@ -2,7 +2,7 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2023-08-23 at 11:03 PM
+ Date and Time: 2023-08-24 at 12:11 AM
  Operating System: nt Windows 10
  System Architecture: 64bit
  Number of CPUs: 20
@@ -15,8 +15,8 @@
  Path to Interpreter:         C:\Program Files\Python311\python.exe
  Path to virtual environment: C:\Program Files\Python311
  Current Working Directory:   C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
- Path to source directory:    C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
- Path to script file:         C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started\util_about.py
+ Path to source directory:    c:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
+ Path to script file:         c:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started\util_about.py
  User's Home Directory:       C:\Users\adria
  Terminal Environment:        VS Code
  Terminal Type:               cmd.exe
