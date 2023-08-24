@@ -1,10 +1,11 @@
-2023-08-24 00:29:53,295.basic_expressions.INFO ==================================================
-2023-08-24 00:29:53,295.basic_expressions.INFO Today is 2023-08-24 at 12:29 AM
-2023-08-24 00:29:53,322.basic_expressions.INFO Running on: nt Windows 10
-2023-08-24 00:29:53,322.basic_expressions.INFO Python version:  3.11.4
-2023-08-24 00:29:53,322.basic_expressions.INFO Python path: C:\Program Files\Python311
-2023-08-24 00:29:53,323.basic_expressions.INFO Working dir: C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
-2023-08-24 00:29:53,323.basic_expressions.INFO ==================================================
-2023-08-24 00:29:53,323.basic_expressions.INFO Given base=10 and height=5, triangle area = 25.0
-2023-08-24 00:29:53,323.basic_expressions.INFO Given float_num1=1.1 and float_num2=2.2, sum = 3.3000000000000003
-2023-08-24 00:29:53,323.basic_expressions.INFO Given num1=50 and num2=20, the difference = 30
+2023-08-24 00:50:37,233.basic_expressions.INFO ==================================================
+2023-08-24 00:50:37,233.basic_expressions.INFO Today is 2023-08-24 at 12:50 AM
+2023-08-24 00:50:37,264.basic_expressions.INFO Running on: nt Windows 10
+2023-08-24 00:50:37,264.basic_expressions.INFO Python version:  3.11.4
+2023-08-24 00:50:37,264.basic_expressions.INFO Python path: C:\Program Files\Python311
+2023-08-24 00:50:37,264.basic_expressions.INFO Working dir: C:\Users\adria\Module01\IntroToPython-master\datafun-01-getting-started
+2023-08-24 00:50:37,264.basic_expressions.INFO ==================================================
+2023-08-24 00:50:37,264.basic_expressions.INFO Given base=7 and height=12, triangle area = 42.0
+2023-08-24 00:50:37,264.basic_expressions.INFO Given length=17 and width=4, rectangle area = 68
+2023-08-24 00:50:37,264.basic_expressions.INFO Given float_num1=7.7 and float_num2=2.1, sum = 9.8
+2023-08-24 00:50:37,264.basic_expressions.INFO Given num1=30 and num2=70, the difference = -40

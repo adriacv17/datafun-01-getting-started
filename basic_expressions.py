@@ -40,22 +40,29 @@ logger, logname = setup_logger(__file__)
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables (like rectangle_length and rectangle_width)
 #       and calculate the area of a rectangle (rectangle_area = rectangle_length * rectangle_width)
-triangle_base = 10
-triangle_height = 5
-num1 = 50
-num2 = 20
-float_num1 = 1.1
-float_num2 = 2.2
-float_num3 = 3.3
+triangle_base = 7
+triangle_height = 12
+rectangle_length = 17
+rectangle_width = 4
+num1 = 30
+num2 = 70
+float_num1 = 7.7
+float_num2 = 2.1
+float_num3 = 4.3
 
 # Basic Arithmetic Operations
 triangle_area = triangle_base * triangle_height / 2
 total_sum = float_num1 + float_num2
 difference = num1 - num2
 
+rectangle_area = rectangle_length * rectangle_width
+
 # Log Information
 logger.info(
     f"Given base={triangle_base} and height={triangle_height}, triangle area = {triangle_area}"
+)
+logger.info(
+    f"Given length={rectangle_length} and width={rectangle_width}, rectangle area = {rectangle_area}"
 )
 logger.info(
     f"Given float_num1={float_num1} and float_num2={float_num2}, sum = {total_sum}"
